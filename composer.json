@@ -43,7 +43,7 @@
         "php": ">=5.5.0",
         "doctrine/common": "2.x",
         "doctrine/annotations": "1.x",
-        "symfony/finder": "2.x",
+        "symfony/finder": "3.x",
         "ostico/PhpOrient": "dev-master"
 
     },
