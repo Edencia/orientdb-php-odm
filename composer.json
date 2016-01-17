@@ -1,5 +1,5 @@
 {
-    "name": "orienttechnologies/orientdb-php-odm",
+    "name": "edencia/orientdb-php-odm",
     "type": "library",
     "description": "An object-document mapper for PHP and OrientDB",
     "keywords": ["orientdb", "ODM"],
